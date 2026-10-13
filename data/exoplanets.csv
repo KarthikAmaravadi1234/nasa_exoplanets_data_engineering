@@ -1,0 +1,105 @@
+pl_name,hostname,disc_year,discoverymethod,disc_facility,pl_rade,pl_masse,pl_orbper,pl_orbsmax,sy_dist,st_teff,sy_pnum
+bet Pic b,bet Pic,2008,Imaging,Paranal Observatory,,2765.1071409,8682.0,10.07,19.7442,,3
+bet Pic c,bet Pic,2019,Radial Velocity,La Silla Observatory,,2765.1071409,1202.0,2.7,19.7442,,3
+HIP 67522 b,HIP 67522,2020,Transit,Transiting Exoplanet Survey Satellite (TESS),10.20017244,13.8,6.959469,0.073,127.28,,2
+LHS 1478 b,LHS 1478,2021,Transit,Transiting Exoplanet Survey Satellite (TESS),1.35971841,,1.94954148084,,18.2276,3414.0,1
+TOI-1685 b,TOI-1685,2021,Transit,Transiting Exoplanet Survey Satellite (TESS),1.47747352,,0.66914451966,,37.6153,3457.0,1
+TOI-1749 b,TOI-1749,2021,Transit,Transiting Exoplanet Survey Satellite (TESS),1.41694787,,2.38889109008,,99.5561,3959.0,3
+TOI-1749 d,TOI-1749,2021,Transit,Transiting Exoplanet Survey Satellite (TESS),2.36729121,,9.04469815594,,99.5561,3959.0,3
+TOI-1296 b,TOI-1296,2021,Transit,Transiting Exoplanet Survey Satellite (TESS),14.43385816,,3.94437117787,,323.265,5494.0,1
+TOI-5165 b,TOI-5165,2026,Transit,K2,3.32,,3.577048,,245.302,4642.1,1
+TOI-1442 b,TOI-1442,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),1.14384687,,0.40906748308,,41.1659,3328.0,1
+TOI-2427 b,TOI-2427,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),1.64,5.69,1.305962,0.0202,28.5147,4203.0,2
+TOI-1246 c,TOI-1246,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),2.69431958,,5.90415339269,,169.422,5141.0,4
+TOI-1246 d,TOI-1246,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),4.10590751,,18.65548152135,,169.422,5141.0,4
+TOI-4479 b,TOI-4479,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),2.54455954,,1.1589032912,,80.6532,3449.0,1
+TOI-213 b,TOI-213,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.6,,23.519904,,54.3256,4566.4,1
+TOI-248 b,TOI-248,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.37,,5.9910723,,75.9529,5711.7,1
+TOI-435 b,TOI-435,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.03,,3.352919,,165.285,4040.0,1
+TOI-783 b,TOI-783,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.47,,8.1125118,,55.3043,4498.94,1
+TOI-786 b,TOI-786,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.41,,12.6694005,,167.948,5853.8,2
+TOI-786 c,TOI-786,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.6,,38.554097,,167.948,5853.8,2
+TOI-789 b,TOI-789,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.08,,5.4470318,,43.407,3461.0,3
+TOI-789 b,TOI-789,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.18,3.7,5.447034,0.043,43.407,3471.0,3
+TOI-789 d,TOI-789,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.4,6.6,12.970689,0.077,43.407,3471.0,3
+TOI-789 c,TOI-789,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.15,3.0,8.0432344,0.056,43.407,3471.0,3
+TOI-789 c,TOI-789,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.28727813,,8.0432343441,,43.407,3471.0,3
+TOI-797 b,TOI-797,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.21,,1.80079489,,56.1927,3607.0,1
+TOI-873 b,TOI-873,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.65,,5.9312268,,76.9563,3694.0,1
+TOI-1135 b,TOI-1135,2024,Transit,Transiting Exoplanet Survey Satellite (TESS),8.81138689,,8.02772998757,,114.048,5962.7,1
+TOI-1154 b,TOI-1154,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.73,,21.74549,,93.8819,5704.0,1
+TOI-1245 b,TOI-1245,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.35,,4.8204406,,80.0982,3692.0,1
+TOI-1262 b,TOI-1262,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.39,,20.877835,,93.2276,5396.0,1
+TOI-1281 b,TOI-1281,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.68,,6.390997,,178.259,6191.0,1
+TOI-1432 b,TOI-1432,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.39,,6.1094927,,95.1757,5587.0,1
+TOI-1435 b,TOI-1435,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.08,,0.6858239,,92.8659,5142.0,1
+TOI-1441 b,TOI-1441,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.82,,22.092958,,141.133,5885.0,1
+TOI-1452 b,TOI-1452,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),1.61536141,,11.06190371161,,30.5212,3248.0,1
+TOI-1695 b,TOI-1695,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),1.80173718,,3.134294867,,45.1309,3575.0,1
+TOI-2025 b,TOI-2025,2022,Transit,Transiting Exoplanet Survey Satellite (TESS),11.75699421,,8.87208864496,,335.985,6042.0,1
+TOI-2238 b,TOI-2238,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.6,,3.390463,,285.78,6113.8,1
+TOI-2245 b,TOI-2245,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.89,,3.7980908,,264.842,5918.0,1
+TOI-2287 b,TOI-2287,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.8,,11.812041,,94.9685,6037.0,1
+TOI-2293 b,TOI-2293,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.08,,6.068314,,62.7576,3668.0,1
+TOI-2392 b,TOI-2392,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.37,,9.169362,,325.608,6244.5,1
+TOI-2426 b,TOI-2426,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.36,,4.0812,,138.301,5716.0,1
+TOI-2441 b,TOI-2441,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.73,,12.890155,,84.5243,3478.0,1
+TOI-2449 b,TOI-2449,2025,Transit,Transiting Exoplanet Survey Satellite (TESS),11.9082,,16.6542431,,156.786,6054.0,1
+TOI-3585 b,TOI-3585,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.26,,3.5410696,,130.802,4652.0,1
+TOI-3688 A b,TOI-3688 A,2023,Transit,Transiting Exoplanet Survey Satellite (TESS),13.62687774,,3.24607018131,,396.378,6088.0,1
+TOI-3851 b,TOI-3851,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.76,,3.383445,,298.349,5838.0,1
+TOI-4307 b,TOI-4307,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.39,,32.696842,,36.0469,6079.16,1
+TOI-4310 b,TOI-4310,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.97,,29.566602,,40.0268,4159.0,1
+TOI-4443 c,TOI-4443,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.22,,10.308817,,56.0739,5834.0,2
+TOI-4468 b,TOI-4468,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),11.29,170.1,2.77085931,0.03592,375.517,5170.0,2
+TOI-4499 b,TOI-4499,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.14,,5.53888,,175.743,6111.0,1
+TOI-4567 b,TOI-4567,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.33,,23.542503,,91.313,3830.0,1
+TOI-4600 b,TOI-4600,2023,Transit,Transiting Exoplanet Survey Satellite (TESS),6.82369247,,82.69014390768,,216.056,5073.0,2
+TOI-4616 b,TOI-4616,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.22,,1.55382,,28.1016,3150.0,1
+TOI-4724 b,TOI-4724,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.2,,3.5761,,225.229,5730.0,1
+TOI-4851 b,TOI-4851,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.77,,21.60913,,125.772,5967.0,1
+TOI-5289 b,TOI-5289,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.38,,3.441056,,258.455,5244.0,1
+TOI-5493 b,TOI-5493,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.36,,14.56485,,225.454,6151.0,1
+TOI-5531 b,TOI-5531,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.46,,4.535285,,80.6404,5788.42,1
+TOI-5543 b,TOI-5543,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.78,,3.5424576,,125.194,5058.0,1
+TOI-5646 b,TOI-5646,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),6.61,45.93,2.4277027,0.0427,429.221,6136.0,1
+TOI-5730 b,TOI-5730,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.4,,1.927107,,40.9866,3572.0,1
+TOI-5739 b,TOI-5739,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.33,,8.430524,,61.8703,6104.12,1
+TOI-5807 b,TOI-5807,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.78,,14.241844,,72.9611,6815.85,1
+TOI-5947 b,TOI-5947,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.32,,6.932019,,57.6245,5451.0,1
+TOI-5958 b,TOI-5958,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.89,,2.3061827,,108.991,5816.0,1
+TOI-5968 b,TOI-5968,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.69,,9.21504,,122.831,5940.0,1
+TOI-1806 d,TOI-1806,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.88,,8.196064,,55.5211,3272.0,3
+TOI-5997 b,TOI-5997,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.45,,5.655007,,46.521,4674.0,1
+TOI-4468 c,TOI-4468,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.09,,7.0139,0.0667,375.517,5170.0,2
+TOI-1806 c,TOI-1806,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.32,,0.5018934,,55.5211,3272.0,3
+TOI-6098 b,TOI-6098,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.3,,2.72985,,82.2325,5599.26,1
+TOI-6174 b,TOI-6174,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),7.83,,3.5247,,718.342,5638.08,1
+TOI-6310 b,TOI-6310,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.11,,3.352783,,96.6459,3896.76,1
+TOI-6434 b,TOI-6434,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),4.61,,2.77791,,128.006,3982.0,1
+TOI-6450 b,TOI-6450,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),7.36,,3.6099,,296.583,4823.0,1
+TOI-4600 c,TOI-4600,2023,Transit,Transiting Exoplanet Survey Satellite (TESS),6.90877517,,482.8191,,216.056,5073.0,2
+TOI-6647 b,TOI-6647,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.97,,3.9992,,174.397,5684.0,1
+TOI-6662 b,TOI-6662,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),0.94,,0.29395013,,21.182,3359.0,1
+TOI-6729 c,TOI-6729,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.01,,7.837435,,186.378,6289.7,2
+TOI-6729 b,TOI-6729,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.61,,3.863828,,186.378,6289.7,2
+NGTS-26 b,NGTS-26,2024,Transit,Next-Generation Transit Survey (NGTS),18.30369096,,4.51844473742,,1093.69,5616.0,1
+HIP 67522 c,HIP 67522,2024,Transit,Transiting Exoplanet Survey Satellite (TESS),7.69,22.0,14.334886,0.119,127.28,,2
+TOI-7182 b,TOI-7182,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.08,,14.71272,,91.8327,6156.0,1
+TOI-7389 b,TOI-7389,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.35,,26.345368,,100.677,5895.0,1
+TOI-7391 b,TOI-7391,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.58,,7.4108814,,73.2382,3578.0,1
+TOI-7550 b,TOI-7550,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.9,,4.984407,,103.36,3775.0,1
+bet Pic d,bet Pic,2026,Imaging,Paranal Observatory,14.12331568,762.7881768,33200.0,26.0,19.7442,,3
+HD 148797 b,HD 148797,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),8.25,39.3,42.0988331,0.2568,172.374,6441.0,2
+HD 148797 c,HD 148797,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),8.3618996,39.6,68.1514539,0.3536,172.374,6441.0,2
+TOI-2427 c,TOI-2427,2025,Radial Velocity,La Silla Observatory,,,5.15,0.05,28.5147,4203.0,2
+TOI-2540 b,TOI-2540,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.5924633,,12.71872549986,,19.1419,4036.3,1
+TOI-2540 b,TOI-2540,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.29,,12.718739,,19.1419,4023.0,1
+TOI-4324 b,TOI-4324,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.13068233,,6.25094684536,,17.038,3479.0,1
+TOI-4324 b,TOI-4324,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.23,,6.2509291,,17.038,3479.0,1
+TOI-5177 b,TOI-5177,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.8831,,2.2085904,,154.965,6183.0,1
+TOI-5177 b,TOI-5177,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.93,,2.20864,,154.965,6183.0,1
+TOI-5696 b,TOI-5696,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),3.16626,,1637.265104,,66.4522,5271.0,1
+TOI-5696 b,TOI-5696,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),2.59,,32.43016,,66.4522,5271.0,1
+TOI-5961 b,TOI-5961,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.31340561,,1.61748702775,,26.2533,3900.68,1
+TOI-5961 b,TOI-5961,2026,Transit,Transiting Exoplanet Survey Satellite (TESS),1.38,,1.6175105,,26.2533,3900.68,1
